@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Latihan1_PMO2_IF18D</string>
+    <string name="hello">Hola Mundo!</string>
+    <string name="negara">Soy Espanol</string>
+    <string name="bahasa">"Yo Hablo Espanol "</string>
+</resources>
